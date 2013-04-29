@@ -88,11 +88,21 @@ Google+: http://plus.google.com
 
 Twitter: http://twitter.com
 
+Chronolapse: https://code.google.com/p/chronolapse/
+
+Livestreaming: http://Twitch.TV
+
 Jango Radio: http://www.jango.com/
 
 Dropbox: http://www.dropbox.com
 
 Github (and Github for Windows): http://www.github.com
+
+WinSCP: http://winscp.net/eng/index.php
+
+Wordpress: http://wordpress.org
+
+MS Paint / Adobe Photoshop / Google Chrome
 
 MOST OF ALL: MY WIFE AND TWO AWESONE KIDS. YOU MAKE IT POSSIBLE.
 
