@@ -19,6 +19,9 @@ to copy or otherwise clone or extend the game yourself. It's ugly,
 unorganized, and totally a product of the short LD timeframe, but 
 it's there.
 
+Please provide attribution and share alike with any derivative 
+works, including this README file. Essentially a (CC)BY-SA license.
+
 Controls, again, are arrow keys and 'A' to shoot. The game was 
 tested with an XBox 360 control pad... 'A' again to shoot, and 
 the analog stick to move. 
