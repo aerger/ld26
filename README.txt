@@ -78,6 +78,8 @@ Sprite Something: http://terriblegames.com/spriteSomething/
 
 LCD color palette: http://terriblegames.com/downloads/LCD.gpl
 
+bfxr: http://www.bfxr.net
+
 XBox 360 A-button graphic: http://castlewiki.castlecrashers.com/index.php/File:Xbox360_Button_A.png
 
 Sublime Text 2: http://www.sublimetext.com/
