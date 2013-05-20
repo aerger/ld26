@@ -104,6 +104,6 @@ Wordpress: http://wordpress.org
 
 MS Paint / Adobe Photoshop / Google Chrome
 
-MOST OF ALL: MY WIFE AND TWO AWESONE KIDS. YOU MAKE IT POSSIBLE.
+MOST OF ALL: MY WIFE AND TWO AWESOME KIDS. YOU MAKE IT POSSIBLE.
 
 ----------------------------------------------------------------
